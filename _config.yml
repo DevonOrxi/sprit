@@ -21,7 +21,7 @@
 title: A. Cid Instrumentality Project
 description: >- # this means to ignore newlines until "baseurl:"
   No.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/sprit" # the subpath of your site, e.g. /blog
 url: "https://devonorxi.github.io"
 
 # Build settings
